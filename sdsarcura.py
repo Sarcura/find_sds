@@ -1,7 +1,5 @@
 import pandas as pd
-
 from find_sds.find_sds import find_sds
-
 
 chemical_inventory = "C:\\Users\\gauer\\Box\\TEAM ENGINEERING\\Inventory\\Inventory_solvent_cabinet.xlsx"
 
